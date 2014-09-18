@@ -1,4 +1,4 @@
 veer-openshift
 ==============
 
-repository for custom cartridges
+veer's repository for openshift custom cartridges
